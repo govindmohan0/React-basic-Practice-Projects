@@ -25,7 +25,7 @@ setpassword(pass)
 <div className='w-full max-w-md mx-auto shadow-md rounded text-orange'>Password Generator</div>
  
  </> 
-  )  dsafdafadafd
+  )
   }
 
 
